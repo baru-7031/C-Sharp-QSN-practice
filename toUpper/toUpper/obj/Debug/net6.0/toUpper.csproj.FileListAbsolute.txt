@@ -1,0 +1,15 @@
+E:\C-Sharp\toUpper\toUpper\bin\Debug\net6.0\toUpper.exe
+E:\C-Sharp\toUpper\toUpper\bin\Debug\net6.0\toUpper.deps.json
+E:\C-Sharp\toUpper\toUpper\bin\Debug\net6.0\toUpper.runtimeconfig.json
+E:\C-Sharp\toUpper\toUpper\bin\Debug\net6.0\toUpper.dll
+E:\C-Sharp\toUpper\toUpper\bin\Debug\net6.0\toUpper.pdb
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.csproj.AssemblyReference.cache
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.AssemblyInfoInputs.cache
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.AssemblyInfo.cs
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.csproj.CoreCompileInputs.cache
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.dll
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\refint\toUpper.dll
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.pdb
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\toUpper.genruntimeconfig.cache
+E:\C-Sharp\toUpper\toUpper\obj\Debug\net6.0\ref\toUpper.dll

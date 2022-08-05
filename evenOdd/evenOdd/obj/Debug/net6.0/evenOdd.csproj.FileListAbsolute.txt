@@ -1,0 +1,15 @@
+E:\C-Sharp\evenOdd\evenOdd\bin\Debug\net6.0\evenOdd.exe
+E:\C-Sharp\evenOdd\evenOdd\bin\Debug\net6.0\evenOdd.deps.json
+E:\C-Sharp\evenOdd\evenOdd\bin\Debug\net6.0\evenOdd.runtimeconfig.json
+E:\C-Sharp\evenOdd\evenOdd\bin\Debug\net6.0\evenOdd.dll
+E:\C-Sharp\evenOdd\evenOdd\bin\Debug\net6.0\evenOdd.pdb
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.csproj.AssemblyReference.cache
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.AssemblyInfoInputs.cache
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.AssemblyInfo.cs
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.csproj.CoreCompileInputs.cache
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.dll
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\refint\evenOdd.dll
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.pdb
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\evenOdd.genruntimeconfig.cache
+E:\C-Sharp\evenOdd\evenOdd\obj\Debug\net6.0\ref\evenOdd.dll

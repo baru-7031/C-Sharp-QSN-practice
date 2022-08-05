@@ -1,0 +1,15 @@
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\bin\Debug\net6.0\AreaOfRectangle.exe
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\bin\Debug\net6.0\AreaOfRectangle.deps.json
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\bin\Debug\net6.0\AreaOfRectangle.runtimeconfig.json
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\bin\Debug\net6.0\AreaOfRectangle.dll
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\bin\Debug\net6.0\AreaOfRectangle.pdb
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.csproj.AssemblyReference.cache
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.AssemblyInfoInputs.cache
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.AssemblyInfo.cs
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.csproj.CoreCompileInputs.cache
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.dll
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\refint\AreaOfRectangle.dll
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.pdb
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\AreaOfRectangle.genruntimeconfig.cache
+E:\C-Sharp\AreaOfRectangle\AreaOfRectangle\obj\Debug\net6.0\ref\AreaOfRectangle.dll

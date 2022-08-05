@@ -1,0 +1,15 @@
+E:\C-Sharp\ranges\ranges\bin\Debug\net6.0\ranges.exe
+E:\C-Sharp\ranges\ranges\bin\Debug\net6.0\ranges.deps.json
+E:\C-Sharp\ranges\ranges\bin\Debug\net6.0\ranges.runtimeconfig.json
+E:\C-Sharp\ranges\ranges\bin\Debug\net6.0\ranges.dll
+E:\C-Sharp\ranges\ranges\bin\Debug\net6.0\ranges.pdb
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.csproj.AssemblyReference.cache
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.AssemblyInfoInputs.cache
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.AssemblyInfo.cs
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.csproj.CoreCompileInputs.cache
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.dll
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\refint\ranges.dll
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.pdb
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ranges.genruntimeconfig.cache
+E:\C-Sharp\ranges\ranges\obj\Debug\net6.0\ref\ranges.dll

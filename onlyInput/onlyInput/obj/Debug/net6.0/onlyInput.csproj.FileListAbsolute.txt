@@ -1,0 +1,15 @@
+E:\C-Sharp\onlyInput\onlyInput\bin\Debug\net6.0\onlyInput.exe
+E:\C-Sharp\onlyInput\onlyInput\bin\Debug\net6.0\onlyInput.deps.json
+E:\C-Sharp\onlyInput\onlyInput\bin\Debug\net6.0\onlyInput.runtimeconfig.json
+E:\C-Sharp\onlyInput\onlyInput\bin\Debug\net6.0\onlyInput.dll
+E:\C-Sharp\onlyInput\onlyInput\bin\Debug\net6.0\onlyInput.pdb
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.csproj.AssemblyReference.cache
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.AssemblyInfoInputs.cache
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.AssemblyInfo.cs
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.csproj.CoreCompileInputs.cache
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.dll
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\refint\onlyInput.dll
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.pdb
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\onlyInput.genruntimeconfig.cache
+E:\C-Sharp\onlyInput\onlyInput\obj\Debug\net6.0\ref\onlyInput.dll

@@ -1,0 +1,15 @@
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.csproj.AssemblyReference.cache
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.AssemblyInfoInputs.cache
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.AssemblyInfo.cs
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.csproj.CoreCompileInputs.cache
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\bin\Debug\net6.0\inputEvenOdd.exe
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\bin\Debug\net6.0\inputEvenOdd.deps.json
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\bin\Debug\net6.0\inputEvenOdd.runtimeconfig.json
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\bin\Debug\net6.0\inputEvenOdd.dll
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\bin\Debug\net6.0\inputEvenOdd.pdb
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.dll
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\refint\inputEvenOdd.dll
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.pdb
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\inputEvenOdd.genruntimeconfig.cache
+E:\C-Sharp\inputEvenOdd\inputEvenOdd\obj\Debug\net6.0\ref\inputEvenOdd.dll

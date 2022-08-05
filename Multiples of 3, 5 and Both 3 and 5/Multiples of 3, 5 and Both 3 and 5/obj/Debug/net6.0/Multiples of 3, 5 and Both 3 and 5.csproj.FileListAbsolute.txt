@@ -1,0 +1,15 @@
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\bin\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.exe
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\bin\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.deps.json
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\bin\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.runtimeconfig.json
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\bin\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.dll
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\bin\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.pdb
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.csproj.AssemblyReference.cache
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.AssemblyInfoInputs.cache
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.AssemblyInfo.cs
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.csproj.CoreCompileInputs.cache
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.dll
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\refint\Multiples of 3, 5 and Both 3 and 5.dll
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.pdb
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\Multiples of 3, 5 and Both 3 and 5.genruntimeconfig.cache
+E:\C-Sharp\Multiples of 3, 5 and Both 3 and 5\Multiples of 3, 5 and Both 3 and 5\obj\Debug\net6.0\ref\Multiples of 3, 5 and Both 3 and 5.dll
